@@ -8,7 +8,7 @@ Set in the repo's **Settings → About** (description + topics), or from the CLI
 ## Description (single line, well under the 350-char limit)
 
 ```
-Android share target for xtracticle.com: share an X post, get a PDF (image posts) or Markdown (text posts) in Downloads. A thin WebView driver that clicks the site's own buttons.
+Android share target for xtracticle.com: share an X post, get a PDF (image posts) or Markdown (text posts) in Downloads. A thin WebView driver that clicks the site's own buttons. Desktop Tampermonkey userscript included.
 ```
 
 Shorter alternative (if you prefer punchier):
