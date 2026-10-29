@@ -20,3 +20,6 @@ captures/
 *.dex
 *.log
 .DS_Store
+
+# Private session record — full detail, deliberately not published
+DEVNOTES.md
