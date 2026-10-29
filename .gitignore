@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config — machine-specific SDK path, never commit
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Misc
+*.apk
+*.ap_
+*.dex
+*.log
+.DS_Store
